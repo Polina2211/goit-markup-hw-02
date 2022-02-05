@@ -1,0 +1,167 @@
+.list{
+    list-style: none;}
+.link{
+    text-decoration: none;}
+.logo{
+font-family: 'Raleway', sans-serif;
+font-weight: bold;
+font-size: 26px;
+line-height: 1,19;
+letter-spacing: 0.03em;
+color: #2196F3;
+}
+.colorlogo{
+font-family: 'Raleway', sans-serif;
+font-weight: bold;
+font-size: 26px;
+line-height: 1,19;
+letter-spacing: 0.03em;
+color: black;
+}
+.nav-list-link link{
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1,14;
+letter-spacing: 0.02em;
+color: black;
+}
+.nav-list-link:hover,
+.nav-list-link:focus{
+    color: #2196F3;
+}
+.contact-mail{
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1,14;
+letter-spacing: 0.02em;
+color:#757575;
+}
+.contact-mail:hover,
+.contact-mail:focus{
+    color: #2196F3;
+}
+.contact-number{
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1,14;
+letter-spacing: 0.02em;
+color: #757575;
+}
+.contact-number:hover,
+.contact-number:focus{
+    color: #2196F3
+}
+.main{
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 1,36;
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.back-color{
+    background-color: 
+    #2F303A;
+}
+.modal-btn{
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 1,875;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+color: #FFFFFF;
+background-color: #2196F3;
+}
+.about-title{
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 1,19;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #212121;
+}
+.about-section{
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 1,71;
+letter-spacing: 0.03em;
+color: #757575;
+}
+.about-work{
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 1,16;
+letter-spacing: 0.03em;
+color: #212121; 
+}
+.about-us{
+    font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 1,16;
+letter-spacing: 0.03em;
+color: #212121;
+}
+.about-us-name{
+ font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1,18;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+}
+.about-us-job{
+font-family: 'Roboto', sans-serif;
+font-weight: normal;
+font-size: 16px;
+line-height: 1,18;
+text-align: center;
+letter-spacing: 0.03em;
+color: #757575;
+}
+.footer{
+background-color:#2F303A;
+}
+.colorlogo-footer{
+color: white; 
+}
+.contacts-footer{
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 1,71;
+letter-spacing: 0.03em;
+color: rgba(255, 255, 255, 0.6);}
+.contacts-adress-footer{
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 1,71;
+letter-spacing: 0.03em;
+color: white;}
+
+}
