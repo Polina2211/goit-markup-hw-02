@@ -81,10 +81,10 @@ align-items: center;
 text-align: center;
 letter-spacing: 0.06em;
 color: #FFFFFF;
+cursor: pointer;
 background-color: #2196F3;}
 .modal-btn:hover,
 .modal-btn:focus{
-cursor: pointer;
 color: #188CE8;}
 .about-title{
 font-family: 'Roboto', sans-serif;
