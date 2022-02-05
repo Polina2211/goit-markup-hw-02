@@ -10,21 +10,21 @@
 .link{
     text-decoration: none;}
 .logo{
-font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway', sans-serif;
 font-weight: bold;
 font-size: 26px;
 line-height: 1,19;
 letter-spacing: 0.03em;
 color: #2196F3;}
 .colorlogo{
-font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway', sans-serif;
 font-weight: bold;
 font-size: 26px;
 line-height: 1,19;
 letter-spacing: 0.03em;
 color: black;}
 .nav-list-link{
-font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 14px;
@@ -35,7 +35,7 @@ color: black;}
 .nav-list-link:focus{ 
 color: #2196F3;}
 .contact-mail{
-font-family: 'Roboto', sans-serif;
+        font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 14px;
@@ -46,7 +46,7 @@ color:#757575;}
 .contact-mail:focus{
 color: #2196F3;}
 .contact-number{
-font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 14px;
@@ -59,7 +59,7 @@ color: #2196F3}
 .active-page{
 color: #2196F3}
 .main{
-font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 900;
 font-size: 44px;
@@ -71,7 +71,7 @@ color: #FFFFFF;}
 .back-color{
 background-color: #2F303A;}
 .modal-btn{
-font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: bold;
 font-size: 16px;
@@ -87,7 +87,7 @@ background-color: #2196F3;}
 .modal-btn:focus{
 color: #188CE8;}
 .about-title{
-font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: bold;
 font-size: 14px;
@@ -96,7 +96,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #212121;}
 .about-section{
-font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: normal;
 font-size: 14px;
@@ -104,7 +104,7 @@ line-height: 1,71;
 letter-spacing: 0.03em;
 color: #757575;}
 .about-work{
-font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: bold;
 font-size: 36px;
@@ -112,7 +112,7 @@ line-height: 1,16;
 letter-spacing: 0.03em;
 color: #212121;}
 .about-us{
-font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: bold;
 font-size: 36px;
